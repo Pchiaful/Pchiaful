@@ -1,6 +1,6 @@
 Hello people!
 
-😄 Pronouns: All pronouns apply! Gender non conforming/non binary
+😄 Pronouns: All pronouns apply! Gender non conforming/non binary <br>
 🔭 I’m currently working on completion of my Codeup course! It has been one of the most fun experiences of my life. Love these people.
 🌱 I’m currently learning to find my passion for coding. It will appear in no time, I am sure of it.
 👯 I’m looking to collaborate on something creative. I would like to see how I can apply all this knowledge to building something others can enjoy.
