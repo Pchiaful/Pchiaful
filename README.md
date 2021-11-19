@@ -1,5 +1,11 @@
-### Hi there 👋
+Hello people!
 
+😄 Pronouns: All pronouns apply! Gender non conforming/non binary
+🔭 I’m currently working on completion of my Codeup course! It has been one of the most fun experiences of my life. Love these people.
+🌱 I’m currently learning to find my passion for coding. It will appear in no time, I am sure of it.
+👯 I’m looking to collaborate on something creative. I would like to see how I can apply all this knowledge to building something others can enjoy.
+💬 Ask me about my cat. Or my craft. Want a reading?🔮 Ask me anything!
+📫 How to reach me: patrick.chiafullo@gmail.com or https://www.linkedin.com/in/patrick-chiafullo/
 <!--
 **Pchiaful/Pchiaful** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
