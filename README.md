@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 
 ![Pchiaful's GitHub stats](https://github-readme-stats.vercel.app/api?username=pchiaful&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchiaful&layout=compact)](https://github.com/pchiaful/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pchiaful&layout=compact&theme=highcontrast)](https://github.com/pchiaful/github-readme-stats)
 
