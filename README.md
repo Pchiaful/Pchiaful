@@ -3,7 +3,7 @@ Hello people!
 Junior Web Developer with full knowledge of JavaScript/jQuery, HTML , CSS, Bootstrap, Java, MySQL, Apache, and Spring Boot. Looking to expand my knowledge base and learn more about coding in general. Love to learn!
 
 😄 Pronouns: All pronouns apply! Gender non conforming/non binary <br>
-🔭 I’m currently working on completion of my Codeup course! It has been one of the most fun experiences of my life. Love these people. <br>
+🔭 I’m currently working on completion of my Teksystems course! It has been one of the most fun experiences of my life. Love these people. <br>
 🌱 I’m currently learning to find my passion for coding. It will appear in no time, I am sure of it. <br>
 👯 I’m looking to collaborate on something creative. I would like to see how I can apply all this knowledge to building something others can enjoy.<br>
 💬 Ask me about my cat. Or my craft. Want a reading?🔮 Ask me anything! <br>
